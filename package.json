@@ -1,0 +1,12 @@
+{
+  "name": "bot-whatsapp-street-ragga",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot for Street Ragga",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node api/webhook.js"
+  }
+}
